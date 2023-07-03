@@ -1,4 +1,5 @@
 # Regression-Project
+
 # TOPIC: Walmart Weekly Sales Prediction
 # Introduction
 Walmart is one of the leading retail stores in the US. They use data to drive their day-to-day business objective. The following dataset that has been used in this project lists the weekly sales at Walmart with respect to other conditions that might affect the weekly sales. I found this dataset particularly interesting because of the practical nature of the problem.
